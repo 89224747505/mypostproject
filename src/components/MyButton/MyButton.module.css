@@ -11,6 +11,7 @@
 .btn:hover {
     box-shadow: 0 0 4px 1px #005050;
     background:#00A0A0;
+    cursor:pointer;
 }
 .btn:active {
     background: burlywood;

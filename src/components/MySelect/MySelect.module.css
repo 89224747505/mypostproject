@@ -1,0 +1,26 @@
+.selectSort {
+    font-family:"Raleway Medium";
+    border-radius: 5px 5px 0 0;
+    height: 30px;
+    font-size: 16px;
+    margin-right: 30px;
+    background: antiquewhite;
+
+}
+.selectSort:hover {
+    cursor:pointer;
+}
+.selectSort:focus {
+    background: antiquewhite;
+
+}
+.selectWrapper {
+    display: flex;
+    justify-content: flex-end;
+}
+.selectName {
+    font-size: 20px;
+    font-family:"Roboto Black";
+    margin-right: 10px;
+    margin-top: 2px;
+}
