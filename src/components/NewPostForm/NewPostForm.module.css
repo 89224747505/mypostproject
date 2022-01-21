@@ -1,0 +1,26 @@
+.titleNewPostForm {
+    margin-top: 30px;
+    text-align: center;
+    font-size: 30px;
+    font-family:"Roboto Black";
+}
+.newPostForm {
+    display:flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    background: antiquewhite;
+    margin: 30px ;
+    padding: 20px 20px 0 20px;
+    border: 1px solid #000;
+    border-radius: 10px;
+}
+
+.newPostForm>div:first-child {
+    flex-grow: 1;
+}
+.newPostForm:hover {
+    box-shadow: 0 0 5px 1px white;
+}
+.newPostForm__input {
+    margin-bottom: 20px;
+}

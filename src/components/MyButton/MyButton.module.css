@@ -1,0 +1,19 @@
+.btn {
+    font-size: 16px;
+    width: 150px;
+    height: 30px;
+    outline: none;
+    border: 1px solid #000;
+    border-radius: 10px;
+    background: teal;
+    color:white;
+}
+.btn:hover {
+    box-shadow: 0 0 4px 1px #005050;
+    background:#00A0A0;
+}
+.btn:active {
+    background: burlywood;
+    color: black;
+    box-shadow: none;
+}
